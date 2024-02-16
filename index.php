@@ -11,7 +11,8 @@ $message = "Hello, World! This is a message from PHP.";
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Sample PHP Webpage</title>
+    <title>272 CMPE 
+        Sample PHP Webpage</title>
 </head>
 <body>
     <h1><?php echo $message; ?></h1>
