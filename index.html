@@ -14,29 +14,35 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>SVG Dog</title>
+    <title>Animated Rabbit</title>
+    <style>
+        @keyframes jump {
+            0% { transform: translateY(0); }
+            50% { transform: translateY(-30px); }
+            100% { transform: translateY(0); }
+        }
+        #rabbit {
+            animation: jump 1s infinite;
+        }
+    </style>
 </head>
 <body>
     <svg width="200" height="200" viewBox="0 0 200 200">
         <!-- Body -->
-        <ellipse cx="100" cy="120" rx="70" ry="90" fill="#b68e5d"/>
+        <ellipse id="rabbit" cx="100" cy="120" rx="50" ry="70" fill="#c7d8c6"/>
         <!-- Head -->
-        <circle cx="100" cy="80" r="50" fill="#b68e5d"/>
+        <circle cx="100" cy="80" r="30" fill="#c7d8c6"/>
         <!-- Eyes -->
-        <circle cx="80" cy="70" r="5" fill="#000"/>
-        <circle cx="120" cy="70" r="5" fill="#000"/>
+        <circle cx="85" cy="70" r="3" fill="#000"/>
+        <circle cx="115" cy="70" r="3" fill="#000"/>
         <!-- Nose -->
-        <circle cx="100" cy="90" r="5" fill="#000"/>
-        <!-- Mouth -->
-        <path d="M90 100 Q 100 110 110 100" stroke="#000" fill="transparent"/>
+        <circle cx="100" cy="85" r="2" fill="#000"/>
         <!-- Ears -->
-        <path d="M65 55 Q 70 25 90 40" stroke="#000" fill="#b68e5d"/>
-        <path d="M135 55 Q 130 25 110 40" stroke="#000" fill="#b68e5d"/>
+        <path d="M80 60 Q 90 40 100 60" stroke="#000" fill="#c7d8c6"/>
+        <path d="M120 60 Q 110 40 100 60" stroke="#000" fill="#c7d8c6"/>
         <!-- Legs -->
-        <rect x="80" y="150" width="20" height="40" fill="#b68e5d"/>
-        <rect x="100" y="150" width="20" height="40" fill="#b68e5d"/>
-        <!-- Tail -->
-        <path d="M160 140 Q 180 100 140 50" stroke="#000" fill="#b68e5d"/>
+        <rect x="80" y="150" width="15" height="40" fill="#c7d8c6"/>
+        <rect x="105" y="150" width="15" height="40" fill="#c7d8c6"/>
     </svg>
 </body>
 </html>
