@@ -1,61 +1,42 @@
 <!DOCTYPE html>
 <html lang="en">
+<p>
+<h2>CMPE 272 -Team Members:</h2>
+
+<li>Shreekar</li> 
+
+<li>Vineet</li>
+
+<li>Satwik</li>
+
+<li>Supriya</li>
+</p>
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Login Page</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            background-color: #f4f4f4;
-            margin: 0;
-            padding: 0;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            height: 100vh;
-        }
-
-        form {
-            background-color: #fff;
-            padding: 20px;
-            border-radius: 5px;
-            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
-            width: 300px;
-        }
-
-        input[type="text"],
-        input[type="password"],
-        input[type="submit"] {
-            width: 100%;
-            padding: 10px;
-            margin: 8px 0;
-            display: inline-block;
-            border: 1px solid #ccc;
-            border-radius: 4px;
-            box-sizing: border-box;
-        }
-
-        input[type="submit"] {
-            background-color: #4caf50;
-            color: white;
-            border: none;
-            cursor: pointer;
-        }
-
-        input[type="submit"]:hover {
-            background-color: #45a049;
-        }
-    </style>
+    <title>SVG Dog</title>
 </head>
 <body>
-
-    <form action="index.php" action='post'>
-    
-        <h2>CMPE 272 Demo Login</h2>
-        <input type="text" id="username" name="username" placeholder="Username" required>
-        <input type="password" id="password" name="password" placeholder="Password" required>
-        <input type="submit" value="Login">
-    </form>
+    <svg width="200" height="200" viewBox="0 0 200 200">
+        <!-- Body -->
+        <ellipse cx="100" cy="120" rx="70" ry="90" fill="#b68e5d"/>
+        <!-- Head -->
+        <circle cx="100" cy="80" r="50" fill="#b68e5d"/>
+        <!-- Eyes -->
+        <circle cx="80" cy="70" r="5" fill="#000"/>
+        <circle cx="120" cy="70" r="5" fill="#000"/>
+        <!-- Nose -->
+        <circle cx="100" cy="90" r="5" fill="#000"/>
+        <!-- Mouth -->
+        <path d="M90 100 Q 100 110 110 100" stroke="#000" fill="transparent"/>
+        <!-- Ears -->
+        <path d="M65 55 Q 70 25 90 40" stroke="#000" fill="#b68e5d"/>
+        <path d="M135 55 Q 130 25 110 40" stroke="#000" fill="#b68e5d"/>
+        <!-- Legs -->
+        <rect x="80" y="150" width="20" height="40" fill="#b68e5d"/>
+        <rect x="100" y="150" width="20" height="40" fill="#b68e5d"/>
+        <!-- Tail -->
+        <path d="M160 140 Q 180 100 140 50" stroke="#000" fill="#b68e5d"/>
+    </svg>
 </body>
 </html>
