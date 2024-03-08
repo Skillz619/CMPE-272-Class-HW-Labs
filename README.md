@@ -1,3 +1,3 @@
 # CMPE-272-Week-3-Php
 
-[shreekintech.us](https://shreekintech.us/)
+[shreekintech.us](http://shreekatsjsu.co/)
