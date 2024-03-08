@@ -1,7 +1,8 @@
 # CMPE-272-Week-3-Php
 
+<li>Lab 1</li>
 
-CMD commands
+<li>Lab 2</li>
 
 # SSh your ec2 instance:
 
