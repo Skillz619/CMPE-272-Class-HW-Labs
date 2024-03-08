@@ -1,0 +1,27 @@
+Lab: Create your first Web Application - Individual Homework
+ 
+
+Description
+
+Using your newly obtained web hosting solution. Perform the following:
+
+Create / Makeup a company name
+Create a company web site
+The web site must contain the following sections:
+Home (the main page)
+About (Description about the company)
+Products/Services (The products/services that you are going to sell)
+News (Latest news about the company, products, etc.)
+Contacts (Company contacts)
+ 
+
+Notes
+
+Be creative on what company you can create - Software, Travel Agency, Video Production, Retail, Plumbing, Engineering, Architect, Private School, Real Estate, etc.
+Research into web site creation tools that can help you.
+The contacts must be stored in text file(s) and use php to read into the web site.
+ 
+
+Grading
+
+Send the company website link AND the php code that read in the contacts to coolprofsinn@gmail.com for grading by beginning of next class.
