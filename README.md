@@ -1,8 +1,8 @@
 # CMPE-272-Week-3-Php
 
-<li>Lab 1</li>
+<li>Lab HW 1</li>
 
-<li>Lab 2</li>
+<li>Lab HW 2</li>
 
 # SSh your ec2 instance:
 
