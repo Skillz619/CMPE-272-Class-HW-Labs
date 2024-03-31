@@ -1,4 +1,4 @@
-# CMPE-272-Week-3-Php
+# CMPE-272-Assignments-labs
 
 <li>Lab HW 1</li>
 
