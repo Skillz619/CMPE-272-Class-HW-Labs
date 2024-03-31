@@ -2,7 +2,9 @@
 
 <li>Lab HW 1</li>
 
-<li>Lab HW 2</li>
+<li>Lab HW 2 - Web Env Site</li>
+
+<li>Lab HW 3 - Secure Site</li>
 
 # SSh your ec2 instance:
 
