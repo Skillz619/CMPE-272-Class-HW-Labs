@@ -46,6 +46,48 @@ Once they are mapped you can see your website hosted on your domain - Shreekatsj
 ![image](https://github.com/Skillz619/CMPE-272-Homework/assets/43133388/14ad9c87-83f6-4b26-ab0d-4eefaa792dfa)
 
 
+<h2>PHP HW - 3 Adding Secure Connection </h2>
+
+sudo yum install certbot python2-certbot-apache
+
+sudo certbot --apache
+
+open editor 
+sudo nano /etc/httpd/conf/httpd.conf
+
+Add virual host for port 80:
+
+<VirtualHost *:80>
+    ServerName your-domain.com
+    DocumentRoot /var/www/html
+    # Additional configuration options (if needed)
+</VirtualHost>
+
+
+Restart Apache 
+
+sudo systemctl restart httpd   # For CentOS/RHEL
+
+sudo systemctl restart apache2  # For Ubuntu/Debian
+
+Run the certbot again
+![image](https://github.com/Skillz619/CMPE-272-Class-HW-Labs/assets/43133388/5b736cba-1c97-41a1-8e81-d7ede06dfb48)
+
+sudo certbot --apache
+
+
+We now have our HTTPS site secured
+
+![image](https://github.com/Skillz619/CMPE-272-Class-HW-Labs/assets/43133388/dfbeaadd-15fa-4c4f-9251-e33fbe5df4c1)
+
+Domain Used - [Shreekatsjsu.co](Https://Shreekatsjsu.co)
+
+[Https://Shreekatsjsu.co](Https://Shreekatsjsu.co)
+
+
+
+
+
 
 
 [shreekatsjsu.co](http://shreekatsjsu.co/)
