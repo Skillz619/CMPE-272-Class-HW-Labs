@@ -90,7 +90,7 @@ Username: admin
 
 Password: password123
 
-<h2>Lab HW-4</h2>
+<h2>Lab HW-4 CURL Calls</h2>
 
 Company A,B and C 
 
