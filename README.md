@@ -6,6 +6,8 @@
 
 <li>Lab HW 3 - Secure Site</li>
 
+<li>Lab HW 4 - CURL Calls</li>
+
 # SSh your ec2 instance:
 
 Install apache and php server to have the enivronment to host php website 
