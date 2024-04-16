@@ -108,13 +108,13 @@ Fetched Company B via Curl calls from the SQL db
 ![image](https://github.com/Skillz619/CMPE-272-Class-HW-Labs/assets/43133388/3b7540e0-9536-4e82-aff9-88f66a933116)
 
 
-[All three Company Website Links ](https://shreekatsjsu.co/company_c.php)
+All three Company Website Links - (https://shreekatsjsu.co/index.php?page=lab4)
 
-[Company A](https://shreekatsjsu.co/company_a.php)
+<li>[Company A](https://shreekatsjsu.co/company_a.php)</li>
 
-[Company B](https://shreekatsjsu.co/company_b.php)
+<li>[Company B](https://shreekatsjsu.co/company_b.php)</li>
 
-[Company C](https://shreekatsjsu.co/company_c.php)
+<li>[Company C](https://shreekatsjsu.co/company_c.php)</li>
 
 
 
