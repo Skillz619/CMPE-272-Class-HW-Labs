@@ -110,11 +110,11 @@ Fetched Company B via Curl calls from the SQL db
 
 All three Company Website Links - (https://shreekatsjsu.co/index.php?page=lab4)
 
-<li>[Company A](https://shreekatsjsu.co/company_a.php)</li>
+<li> [Company A](https://shreekatsjsu.co/company_a.php) </li>
 
-<li>[Company B](https://shreekatsjsu.co/company_b.php)</li>
+<li> [Company B](https://shreekatsjsu.co/company_b.php) </li>
 
-<li>[Company C](https://shreekatsjsu.co/company_c.php)</li>
+<li> [Company C](https://shreekatsjsu.co/company_c.php) </li>
 
 
 
