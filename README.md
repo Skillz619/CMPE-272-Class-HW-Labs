@@ -91,8 +91,11 @@ Username: admin
 Password: password123
 
 <h2>Lab HW-4</h2>
-Company A,B and C
-![image](https://github.com/Skillz619/CMPE-272-Class-HW-Labs/assets/43133388/05090b2e-f959-40c2-b0d6-3e89441e7cc0)
+
+Company A,B and C 
+
+![image](https://github.com/Skillz619/CMPE-272-Class-HW-Labs/assets/43133388/b37bc022-4b1f-424a-a201-3ca842823802)
+
 
 Inserted database and tables 
 
