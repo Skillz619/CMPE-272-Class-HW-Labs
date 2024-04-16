@@ -89,3 +89,32 @@ Domain Used - [Shreekatsjsu.co](Https://Shreekatsjsu.co)
 Username: admin
 
 Password: password123
+
+<h2>Lab HW-4</h2>
+Company A,B and C
+![image](https://github.com/Skillz619/CMPE-272-Class-HW-Labs/assets/43133388/05090b2e-f959-40c2-b0d6-3e89441e7cc0)
+
+Inserted database and tables 
+
+![image](https://github.com/Skillz619/CMPE-272-Class-HW-Labs/assets/43133388/b72d12d0-7bb3-4253-8a03-7a0e924270cf)
+
+Fetched the data from the sql lite database on the php webpage displayed. - VIA CURL calls - Company A
+![image](https://github.com/Skillz619/CMPE-272-Class-HW-Labs/assets/43133388/cd1aaf4c-d965-49fc-925c-b348ad1abf72)
+
+Fetched Company B via Curl calls from the SQL db
+![image](https://github.com/Skillz619/CMPE-272-Class-HW-Labs/assets/43133388/d0d9f5d1-93fb-4951-8d87-cb865be8e7a0)
+
+Fetched Company B via Curl calls from the SQL db
+![image](https://github.com/Skillz619/CMPE-272-Class-HW-Labs/assets/43133388/3b7540e0-9536-4e82-aff9-88f66a933116)
+
+
+[All three Company Website Links ](https://shreekatsjsu.co/company_c.php)
+
+[Company A](https://shreekatsjsu.co/company_a.php)
+
+[Company B](https://shreekatsjsu.co/company_b.php)
+
+[Company C](https://shreekatsjsu.co/company_c.php)
+
+
+
