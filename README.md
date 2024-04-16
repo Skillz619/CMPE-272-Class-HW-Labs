@@ -1,5 +1,13 @@
 # CMPE-272-Assignments-labs
 
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/Skillz619/count.svg" />
+</p>
+
+
+
 <li>Lab HW 1</li>
 
 <li>Lab HW 2 - Web Env Site</li>
