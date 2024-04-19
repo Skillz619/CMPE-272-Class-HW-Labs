@@ -117,7 +117,7 @@ Fetched the data from the sql lite database on the php webpage displayed. - VIA 
 Fetched Company B via Curl calls from the SQL db
 ![image](https://github.com/Skillz619/CMPE-272-Class-HW-Labs/assets/43133388/d0d9f5d1-93fb-4951-8d87-cb865be8e7a0)
 
-Fetched Company B via Curl calls from the SQL db
+Fetched Company C via Curl calls from the SQL db
 ![image](https://github.com/Skillz619/CMPE-272-Class-HW-Labs/assets/43133388/3b7540e0-9536-4e82-aff9-88f66a933116)
 
 
