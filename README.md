@@ -8,15 +8,18 @@
 
 
 
-<li>Lab HW 1</li>
+<li><a href="https://github.com/Skillz619/CMPE-272-Class-HW-Labs/tree/main/phphw1">Lab HW 1</li>
 
-<li>Lab HW 2 - Web Env Site</li>
+<li><a href="#env">Lab HW 2 - Web Env Site</li>
 
 <li><a href="#secure">Lab HW 3 - Secure Site</li>
 
 <li><a href="#curl">Lab HW 4 - CURL Calls</li>
 
 <li><a href="#movievote">May 2nd Lab - Vote - Jquery Mobile</a></li>
+
+
+<h2 id="env">Lab HW 2 - Web Env Site</h2
 
 # SSh your ec2 instance:
 
