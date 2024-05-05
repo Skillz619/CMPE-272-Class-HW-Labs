@@ -23,6 +23,7 @@
 
 # SSh your ec2 instance:
 
+
 Install apache and php server to have the enivronment to host php website 
 
 sudo yum install httpd php
