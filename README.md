@@ -16,6 +16,8 @@
 
 <li>Lab HW 4 - CURL Calls</li>
 
+<li><a href="#movievote">May 2nd Lab - Vote - Jquery Mobile</a></li>
+
 # SSh your ec2 instance:
 
 Install apache and php server to have the enivronment to host php website 
@@ -129,5 +131,23 @@ All three Company Website Links - (https://shreekatsjsu.co/index.php?page=lab4)
 
 <li> [Company C](https://shreekatsjsu.co/company_c.php) </li>
 
+
+
+<h2 id="movievote">Lab May-2nd - Movie Vote - Jquery Mobile</h2>
+
+
+
+![image](https://github.com/Skillz619/CMPE-272-Class-HW-Labs/assets/43133388/9dea5349-84e9-44fb-9f4c-a5efff81767d)
+
+
+Pre - Loaded the choices upto 10 movies
+
+![image](https://github.com/Skillz619/CMPE-272-Class-HW-Labs/assets/43133388/7f9f3e86-4afe-46e0-99cf-eaee9e1537b6)
+
+
+![image](https://github.com/Skillz619/CMPE-272-Class-HW-Labs/assets/43133388/2d07a12f-172c-45c0-9ebb-f6124fef057d)
+
+
+Build Deployed via Netlify and Link to access - https://272lab-movie-vote-shreekar.netlify.app/
 
 
