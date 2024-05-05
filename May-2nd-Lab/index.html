@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Movie Voting App</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jquery-mobile/1.4.5/jquery.mobile.min.css">
+</head>
+<body>
+    <div data-role="page" id="voting-page">
+        <div data-role="header">
+            <h1>Movie Voting</h1>
+        </div>
+        <div role="main" class="ui-content">
+            <div id="movie-list" class="movie-list"></div>
+            <div id="results" class="results">
+                <h2>Results</h2>
+                <div class="result-tables">
+                    <div class="result-table">
+                        <h3>Yes</h3>
+                        <table data-role="table" id="yes-table" class="ui-responsive">
+                            <tbody></tbody>
+                        </table>
+                    </div>
+                    <div class="result-table">
+                        <h3>No</h3>
+                        <table data-role="table" id="no-table" class="ui-responsive">
+                            <tbody></tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div data-role="footer" data-position="fixed">
+            <button id="reset-button" class="ui-btn ui-corner-all ui-shadow ui-btn-inline">Reset</button>
+        </div>
+    </div>
+
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-mobile/1.4.5/jquery.mobile.min.js"></script>
+    <script src="app.js"></script>
+</body>
+</html>
