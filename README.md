@@ -12,9 +12,9 @@
 
 <li>Lab HW 2 - Web Env Site</li>
 
-<li>Lab HW 3 - Secure Site</li>
+<li><a href="#secure">Lab HW 3 - Secure Site</li>
 
-<li>Lab HW 4 - CURL Calls</li>
+<li><a href="#curl">Lab HW 4 - CURL Calls</li>
 
 <li><a href="#movievote">May 2nd Lab - Vote - Jquery Mobile</a></li>
 
@@ -58,7 +58,7 @@ Once they are mapped you can see your website hosted on your domain - Shreekatsj
 ![image](https://github.com/Skillz619/CMPE-272-Homework/assets/43133388/14ad9c87-83f6-4b26-ab0d-4eefaa792dfa)
 
 
-<h2>PHP HW - 3 Adding Secure Connection </h2>
+<h2 id="secure">PHP HW - 3 Adding Secure Connection </h2>
 
 sudo yum install certbot python2-certbot-apache
 
@@ -102,7 +102,8 @@ Username: admin
 
 Password: password123
 
-<h2>Lab HW-4 CURL Calls</h2>
+
+<h2 id="curl">Lab HW-4 CURL Calls</h2>
 
 Company A,B and C 
 
