@@ -16,6 +16,8 @@
 
 <li><a href="#curl">Lab HW 4 - CURL Calls</li>
 
+<li>Lab HW 5- User creation and Searching DB</li>
+
 <li><a href="#movievote">May 2nd Lab - Vote - Jquery Mobile</a></li>
 
 
