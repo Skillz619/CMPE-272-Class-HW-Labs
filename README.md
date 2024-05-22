@@ -20,6 +20,8 @@
 
 <li><a href="#movievote">May 2nd Lab - Vote - Jquery Mobile</a></li>
 
+<li><a href="#termproject">Cross Domain Enterprise Online Market Place</a></li>
+
 
 <h2 id="env">Lab HW 2 - Web Env Site</h2
 
@@ -158,6 +160,8 @@ Pre - Loaded the choices upto 10 movies
 Build Deployed via Netlify and Link to access - https://272lab-movie-vote-shreekar.netlify.app/
 
 
-Term Project - Cross Domain Enterprise Online Market Place - (Github Repo)[https://github.com/Skillz619/272-project-Shopstop.git]
+<h2 id="termproject">Cross Domain Enterprise Online Market Place</h2>
+
+Term Project - Cross Domain Enterprise Online Market Place - [Github Repo](https://github.com/Skillz619/272-project-Shopstop.git)
 
 
